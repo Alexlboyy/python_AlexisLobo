@@ -15,3 +15,5 @@ print("La version du Python : " + "Python " + py_ver)
 print("============================================")
 print("Votre processeur : " + proc)
 print("============================================")
+
+print("test de sauvegarde)")
