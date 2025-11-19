@@ -76,4 +76,5 @@ def collecter_tout():
     }
     return tout
 
-collecter_tout()
+if __name__ == "__main__":
+    collecter_tout()
