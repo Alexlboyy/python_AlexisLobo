@@ -78,7 +78,6 @@ def afficher_tout():
     donnees_disques = collector.collecter_disques()
     print()
     afficher_disques(donnees_disques, heure)
-    print("===============================")
 
 def octets_vers_go(octets):
     GB = str(round(octets/1024**3, 2)) + "GB"
