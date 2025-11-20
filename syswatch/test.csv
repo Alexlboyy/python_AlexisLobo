@@ -1,0 +1,2 @@
+timestamp,hostname,cpu_percent,mem_total_gb,mem_dispo_gb,mem_percent,disk_root_percent
+20-11-2025 11:12:19,PW-FRPC163,29.5%,15.69Gb,3.12Gb,80.1%,
